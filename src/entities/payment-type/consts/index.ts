@@ -1,0 +1,18 @@
+export const PAYMENT_METHOD_LIST = {
+  TOUCH_N_GO: "TouchNGO",
+  OVO: "OVO",
+  DANA: "DANA",
+  VOLET: "Volet",
+  PERFECT_MONEY: "Perfect Money",
+  TOPCHANGE: "Topchange",
+  FASAPAY: "FasaPay",
+  GOPAY: "GoPay",
+  ONLINENAIRA: "OnlineNaira",
+  SHOPEEPAY: "ShopeePay",
+  MOMO: "MoMo",
+  TRUEMONEY: "TrueMoney",
+  PAYTM: "Paytm",
+  PHONEPE: "PhonePe",
+  ZIPAY: "ZiPay",
+  M10_AZN: "M10 AZN",
+};
